@@ -1,8 +1,10 @@
-### Hi there! Welcome to my profile! :v:
+### Hi there! Welcome to my GitHub! :v:
 
 I am 24 years old, currently I am a junior developer at Raízen and I am studying Internet Systems.
 
-<img src="assets/my-octocat.png" width="400">
+<center>
+    <img src="assets/my-octocat.png" width="400">
+</center>
 
 I am an objective and dedicated person, I really enjoy challenges and I am excited to know that as a developer I will be challenged all the time.
 
