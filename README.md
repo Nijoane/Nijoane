@@ -1,22 +1,19 @@
-<p align="center">
-    ### Hi there! Welcome to my GitHub! :v:
-</p>
 
-<p align="center">
-    I am 24 years old, currently I am a junior developer at Raízen and I am studying Internet Systems.
-</p>
+### Hi there! Welcome to my GitHub! :v:
+
+
+I am 24 years old, currently I am a junior developer at Raízen and I am studying Internet Systems.
+
 
 <p align="center">
     <img src="assets/my-octocat.png" width="300">
 </p>
 
-<p align="center">
-    I am an objective and dedicated person, I really enjoy challenges and I am excited to know that as a developer I will be challenged all the time.
-</p>
+I am an objective and dedicated person, I really enjoy challenges and I am excited to know that as a developer I will be challenged all the time.
 
-<p align="center">
-    I have studied a lot in the last few months to develop my hard skills, but I am fully dedicated to the improvement of my soft skills.
-</p>
+
+I have studied a lot in the last few months to develop my hard skills, but I am fully dedicated to the improvement of my soft skills.
+
 
 
 ![Nijoane GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nijoane&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nijoane&layout=compact)](https://github.com/Nijoane/github-readme-stats)
